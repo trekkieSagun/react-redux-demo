@@ -1,0 +1,13 @@
+.container img {
+  width: 200px;
+  height: 200px;
+}
+
+.container {
+  margin: 1rem 5rem;
+}
+
+.item-container {
+  display: inline-block;
+  margin: 0 5rem;
+}
